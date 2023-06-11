@@ -1,0 +1,9 @@
+* rutils
+
+Radical Utilities for Common Lisp
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/vseloved/rutils.git |
+| commit  | 79cb029                                    |
+| systems | rutils rutilsx                             |
+|---------+--------------------------------------------|
